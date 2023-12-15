@@ -24,8 +24,3 @@ Bu Java projesi, metin tabanlı bir Mayın Tarlası oyununu gerçekleştirir. Oy
 - Seçilen nokta sınırlar içindeyse, oyun devam eder. Mayına basılmışsa oyun kaybedilir.
 - Eğer mayına basılmamışsa, seçilen noktanın etrafındaki konumlar incelenir ve etrafındaki mayınların sayısı ilgili noktaya yazılır.
 - Oyun, kullanıcı tüm noktaları seçene kadar devam eder. Tüm noktalar seçildiğinde, oyun kazanılır.
-
-![Kaybetme Senaryosu](https://hizliresim.com/jbzjwax)
-
-![Kazanma Senaryosu](https://hizliresim.com/5we2h0p)
-
